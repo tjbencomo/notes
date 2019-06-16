@@ -6,9 +6,9 @@ vep --cache --offline --assembly GRCh37 --dir $VEP_DATA --dir_cache $VEP_DATA  -
 ```
 Annotations with dbNSFP
 ```
-vep --cache --offline --assembly GRCh37 --dir $VEP_DATA --dir_cache $VEP_DATA \
-  --dir_plugins /home/groups/carilee/software/vep_data/Plugins/ -i 101_somatic_filtered.vcf \
-  -o plugin_test --plugin dbNSFP,LRT_score
+vep --cache --offline --assembly GRCh37 --dir $VEP_DATA --dir_cache $VEP_DATA   --dir_plugins \
+  /home/groups/carilee/software/vep_data/Plugins -i vep_input_cosmic_replication.txt  -o annotations --plugin \
+  dbNSFP,/home/groups/carilee/software/vep_data/Plugins/dbNSFP3.5.gz,MetaLR_score,MetaLR_pred,fathmm-MKL_coding_score,fathmm-MKL_coding_pred
 ```
 ## Plugins
 ### dbNSFP
