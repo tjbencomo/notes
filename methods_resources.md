@@ -15,7 +15,7 @@ machine learning.
 |-----------|-------------|
 | [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUJo2Q6xK4tZElbIvAACEykp) | Khan Academy style videos by Josh Starmer on distributions, parameters, linear models, machine learning, bioinformatics, and R |
 | [Statistical Tests Are Linear Models](https://lindeloev.github.io/tests-as-linear/) | Common statistical tests such as the t-test and ANOVA are just specialized forms of linear models |
-| [Flexible Imputation For Missing Data](https://stefvanbuuren.name/fimd/) | Addressing missing data by the creator of MICE |
+| [Flexible Imputation For Missing Data](https://stefvanbuuren.name/fimd/) | Statistical aspects of missing data. Covers MCAR/MAR/MNAR assumptions, complete-case analysis, and MICE imputation methods |
 | [Modern Statistics For Modern Biology](https://www-huber.embl.de/msmb/index.html) | Intro statistics for bioinformatics applications. Covers distributions, PCA, hypothesis testing, RNASeq analysis, machine learning, experimental design |
 | [Biostatistics For Biomedical Research](http://hbiostat.org/doc/bbr.pdf) | Intro biostatistics, regression models, randomized controlled trials (RCTs), observational studies, diagnosis, statistical pitfalls, high dimensional modeling |
 | [Statistical Problems to Avoid](http://biostat.mc.vanderbilt.edu/wiki/Main/ManuscriptChecklist) | Common statistical issues to think about in the design, analysis, and publication of research |
