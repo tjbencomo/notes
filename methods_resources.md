@@ -24,7 +24,7 @@ machine learning.
 | [Communicating Frequentist Results](https://discourse.datamethods.org/t/language-for-communicating-frequentist-results-about-treatment-effects/934) | Proper way to describe treatment effects according to frequentist theory |
 | [Bayesian Re-analysis of Toss Up Clinical Trial](https://discourse.datamethods.org/t/andromeda-shock-or-how-to-intepret-hr-0-76-95-ci-0-55-1-02-p-0-06/1349) | How to interpret clinical trials that slightly miss p < .05 cutoff and bayesian methods to re-analyze trials | 
 | [Statistics Glossary](http://hbiostat.org/doc/glossary.pdf) | Glossary of Statistical Terms |
-| [Observed Power should be avoided](https://discourse.datamethods.org/t/observed-power-and-other-power-issues/731) | Issues with observed power overestimating the studies true power, misleading researchers |
+| [Observed Power should be avoided](https://discourse.datamethods.org/t/observed-power-and-other-power-issues/731) | Issues with observed power overestimating the study's true power, misleading researchers |
 | [Observed Power Simulation Study](https://lesslikely.com/statistics/observed-power-magic/) | Simulation study showing problems with observed power | 
 | [Criticisms of ROC curves for medical decision-making](https://discourse.datamethods.org/t/sensitivity-specificity-and-roc-curves-are-not-needed-for-good-medical-decision-making/1152) | Problems with using ROC curves to evaluate the quality of medical decision-making models |
 | [Table 1 P-values in RCTs](https://discourse.datamethods.org/t/should-we-ignore-covariate-imbalance-and-stop-presenting-a-stratified-table-one-for-randomized-trials/547) | Baseline differences should not be tested in RCTs as differences are already due to chance from randomization |
