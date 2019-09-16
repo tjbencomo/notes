@@ -8,6 +8,7 @@ machine learning.
 | [High Throughput Sequencing - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUJo2Q6xK4tZElbIvAACEykp) | Josh Starmer explains RNASeq, ChiPSeq, DESeq2, PCA, Expression Heatmaps, RPKM/FPKM/TPM and more        |
 | [RNASeq RPKM vs FPKM vs TPM](https://haroldpimentel.wordpress.com/2014/05/08/what-the-fpkm-a-review-rna-seq-expression-units/)          |  Reviews different RNASeq units common in the literature |
 | [RNASeq Between Sample Normalization](https://haroldpimentel.wordpress.com/2014/12/08/in-rna-seq-2-2-between-sample-normalization/)          | Why FPKM and TPM aren't comparable between samples and library normalization is needed |
+| [Single-Cell RNASeq Data in R](https://osca.bioconductor.org) | Tutorial explaining how to use Bioconductor packages to efficiently manipulate single cell data |
 
 
 ## Statistics
