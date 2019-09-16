@@ -44,3 +44,4 @@ machine learning.
 | [Data Visualization with ggplot2](http://socviz.co/index.html#preface) | Theory and practice of data visualization using `ggplot2` | 
 | [ggplot2 Categorical Heatmaps](https://stackoverflow.com/questions/12998372/heatmap-like-plot-but-for-categorical-variables) | How to plot heatmaps showing categorical variable in `ggplot2`|
 | [Dynamite Plots Should Be Avoided](https://simplystatistics.org/2019/02/21/dynamite-plots-must-die/) | Why dynamite plots should be discarded and replaced with boxplots or violin plots|
+| [Colorspace Color Library](https://cran.r-project.org/web/packages/colorspace/vignettes/colorspace.html) | More color options with `colorspace` R package |
