@@ -30,6 +30,7 @@ machine learning.
 | [Criticisms of ROC curves for medical decision-making](https://discourse.datamethods.org/t/sensitivity-specificity-and-roc-curves-are-not-needed-for-good-medical-decision-making/1152) | Problems with using ROC curves to evaluate the quality of medical decision-making models |
 | [Table 1 P-values in RCTs](https://discourse.datamethods.org/t/should-we-ignore-covariate-imbalance-and-stop-presenting-a-stratified-table-one-for-randomized-trials/547) | Baseline differences should not be tested in RCTs as differences are already due to chance from randomization |
 | [Pseudo R^2 Explanation](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-pseudo-r-squareds/) | Intuitive explanation behind OLS R^2 and generalizes this intuition to pseduo R^2 measures for binary outcomes |
+| [GLMs Explained](https://newonlinecourses.science.psu.edu/stat504/node/216/) | Introduction to Generalized Linear Models (GLMs) |
 
 
 
