@@ -11,6 +11,7 @@ machine learning.
 | [Single-Cell RNASeq Data in R](https://osca.bioconductor.org) | Tutorial explaining how to use Bioconductor packages to efficiently manipulate single cell data |
 | [Computational Genomics with R](http://compgenomr.github.io/book/) | Great introduction to different areas of bioinformatics using R |
 | [RNA-Seq Differential Expression Walkthrough](https://hbctraining.github.io/DGE_workshop_salmon/schedule/) | Harvard Broad workshop that covers the entire DEG workflow: sample QC, count normalization, DE analysis, visualization, and functional analysis.
+| [Microarray Data Analysis](http://bioinformatics-core-shared-training.github.io/microarray-analysis/) | Workshop covering microarray DE analysis for GEO data using `limma`.
 
 
 ## Statistics
