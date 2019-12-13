@@ -1,5 +1,10 @@
 # VEP
 ## Usage
+Required dependencies
+```
+module load perl
+module load htslib
+```
 Basic usage
 ```
 vep --cache --offline --assembly GRCh37 --dir $VEP_DATA --dir_cache $VEP_DATA  -i 101_somatic_filtered.vcf -o plugin_test 
