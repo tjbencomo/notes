@@ -7,8 +7,10 @@ module load htslib
 ```
 Basic usage
 ```
-vep --cache --offline --assembly GRCh37 --dir $VEP_DATA --dir_cache $VEP_DATA  -i 101_somatic_filtered.vcf -o output_file 
+vep --cache --offline --assembly GRCh37 --dir $VEP_DATA --dir_cache $VEP_DATA  -i 101_somatic_filtered.vcf -o output_file
 ```
+Use `--vcf` for VCF formatting
+
 Annotations with dbNSFP
 ```
 vep --cache --offline --assembly GRCh37 --dir $VEP_DATA --dir_cache $VEP_DATA   --dir_plugins \
