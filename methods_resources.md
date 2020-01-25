@@ -9,10 +9,11 @@ machine learning.
 | [RNASeq RPKM vs FPKM vs TPM](https://haroldpimentel.wordpress.com/2014/05/08/what-the-fpkm-a-review-rna-seq-expression-units/)          |  Reviews different RNASeq units common in the literature |
 | [RNASeq Between Sample Normalization](https://haroldpimentel.wordpress.com/2014/12/08/in-rna-seq-2-2-between-sample-normalization/)          | Why FPKM and TPM aren't comparable between samples and library normalization is needed |
 | [Single-Cell RNASeq Data in R](https://osca.bioconductor.org) | Tutorial explaining how to use Bioconductor packages to efficiently manipulate single cell data |
+| [Broad Single-Cell RNASeq Tutorial](https://broadinstitute.github.io/2019_scWorkshop/) | 2019 Broad workshop on how to analyze sc-RNAseq data |
 | [Computational Genomics with R](http://compgenomr.github.io/book/) | Great introduction to different areas of bioinformatics using R |
-| [RNA-Seq Differential Expression Walkthrough](https://hbctraining.github.io/DGE_workshop_salmon/schedule/) | Harvard Broad workshop that covers the entire DEG workflow: sample QC, count normalization, DE analysis, visualization, and functional analysis.
-| [Microarray Data Analysis](http://bioinformatics-core-shared-training.github.io/microarray-analysis/) | Workshop covering microarray DE analysis for GEO data using `limma`.
-| [FastQC Plots: Good vs Bad Plots](https://rtsf.natsci.msu.edu/genomics/tech-notes/fastqc-tutorial-and-faq/) | Tutorial describing how to interpret `FastQC` plots with examples of good and bad data
+| [RNA-Seq Differential Expression Walkthrough](https://hbctraining.github.io/DGE_workshop_salmon/schedule/) | Harvard Broad workshop that covers the entire DEG workflow: sample QC, count normalization, DE analysis, visualization, and functional analysis. |
+| [Microarray Data Analysis](http://bioinformatics-core-shared-training.github.io/microarray-analysis/) | Workshop covering microarray DE analysis for GEO data using `limma`. |
+| [FastQC Plots: Good vs Bad Plots](https://rtsf.natsci.msu.edu/genomics/tech-notes/fastqc-tutorial-and-faq/) | Tutorial describing how to interpret `FastQC` plots with examples of good and bad data |
 
 
 ## Statistics
