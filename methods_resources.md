@@ -42,6 +42,7 @@ machine learning.
 | [Multicollinearity and Omitted Variable Bias](https://are.berkeley.edu/courses/EEP118/current/handouts/OVB%20versus%20Multicollinearity_eep118_sp15.pdf) | Distinction between collinearity and omitted variable bias |
 | [Cox PH Diagnostics](https://www.ics.uci.edu/~dgillen/STAT255/Handouts/lecture10.pdf) | Guide to checking Cox PH regression assumptions |
 | [Dealing with Unbalanced Datasets](https://github.com/matloff/regtools/blob/master/UnbalancedClasses.md) | Why resampling techniques should be avoided when analyzing datasets with unbalanced outcomes |
+| [Statistical Rethinking with `brms`](https://bookdown.org/content/4857/) | Uses `brms` and `tidyverse` code instead of base R |
 
 
 
