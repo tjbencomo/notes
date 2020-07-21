@@ -43,6 +43,7 @@ machine learning.
 | [Cox PH Diagnostics](https://www.ics.uci.edu/~dgillen/STAT255/Handouts/lecture10.pdf) | Guide to checking Cox PH regression assumptions |
 | [Dealing with Unbalanced Datasets](https://github.com/matloff/regtools/blob/master/UnbalancedClasses.md) | Why resampling techniques should be avoided when analyzing datasets with unbalanced outcomes |
 | [Statistical Rethinking with `brms`](https://bookdown.org/content/4857/) | Uses `brms` and `tidyverse` code instead of base R |
+| [Interpretting P-Value Histogram](http://varianceexplained.org/statistics/interpreting-pvalue-histogram/) | How to interpret results from running several statistical tests before adjusting for multiple comparisons|
 
 
 
