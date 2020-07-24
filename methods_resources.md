@@ -44,6 +44,7 @@ machine learning.
 | [Dealing with Unbalanced Datasets](https://github.com/matloff/regtools/blob/master/UnbalancedClasses.md) | Why resampling techniques should be avoided when analyzing datasets with unbalanced outcomes |
 | [Statistical Rethinking with `brms`](https://bookdown.org/content/4857/) | Uses `brms` and `tidyverse` code instead of base R |
 | [Interpretting P-Value Histogram](http://varianceexplained.org/statistics/interpreting-pvalue-histogram/) | How to interpret results from running several statistical tests before adjusting for multiple comparisons|
+| [Correct Confidence Intervals For GLMs](https://fromthebottomoftheheap.net/2018/12/10/confidence-intervals-for-glms/) | Gavin Simpson's blog shows to how compute confidence intervals for GLM models that obey the constraints of the response variable |
 
 
 
