@@ -17,6 +17,7 @@ machine learning.
 | [CoMutPlotter: Visualize Mutation Data](http://tardis.cgu.edu.tw/comutplotter/) | Online tool to visualize mutation heatmaps and include clinical characteristics for a sequencing cohort |
 | [Check RNASeq Strandedness](https://fishycat.netlify.com/en/2017/08/strandness_in_rnaseq/) | Use different RNASeq alignment programs to check if RNASeq data is stranded or unstranded |
 | [RNASeq Strandedness Explanation](https://chipster.csc.fi/manual/library-type-summary.html) | Explains unstranded vs stranded vs reverse stranded and how to use RSeQC to check the strandedness of FASTQ data |
+| [Common Clustering Mistakes](https://stke-sciencemag-org.stanford.idm.oclc.org/content/9/432/re6) | Discusses issues with clustering biological data |
 
 
 ## Statistics
