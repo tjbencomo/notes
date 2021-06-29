@@ -19,6 +19,7 @@ machine learning.
 | [RNASeq Strandedness Explanation](https://chipster.csc.fi/manual/library-type-summary.html) | Explains unstranded vs stranded vs reverse stranded and how to use RSeQC to check the strandedness of FASTQ data |
 | [Common Clustering Mistakes](https://stke-sciencemag-org.stanford.idm.oclc.org/content/9/432/re6) | Discusses issues with clustering biological data |
 | [Should I remove PCR duplicates from RNA-Seq](https://dnatech.genomecenter.ucdavis.edu/faqs/should-i-remove-pcr-duplicates-from-my-rna-seq-data/) | Why we DO NOT remove PCR duplicates from RNA-Seq |
+| [Sequenza Walkthrough](https://bpa-csiro-workshops.github.io/btp-manuals-md/modules/cancer-module-cnv/cnv-tut/) | Workshop covering how to use Sequenza and explaining outputs with more detail than the official Sequenza tutorial |
 
 
 ## Statistics
