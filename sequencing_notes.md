@@ -9,3 +9,6 @@ Stanford Dermatology seems to use Agilent, specifically the SureSelect whole exo
 To access the BED files for each probe kit, go to the [Agilent SureDesign website](https://earray.chem.agilent.com/suredesign/)
 and login or create an account. Login and then go to Find Designs, choose the appropriate probe type, and then select 
 Agilent catalog. This will display all the different kits and allow you to download the appropriate files.
+
+AstraZeneca has a great [repository](https://github.com/AstraZeneca-NGS/reference_data) with capture region BED files
+for several kits (including Agilent).
