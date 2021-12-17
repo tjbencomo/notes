@@ -12,3 +12,10 @@ Agilent catalog. This will display all the different kits and allow you to downl
 
 AstraZeneca has a great [repository](https://github.com/AstraZeneca-NGS/reference_data) with capture region BED files
 for several kits (including Agilent).
+
+# GEO Submission
+This script uploads data to GEO and can be run non-interactively on a cluster
+```
+# File: upload.sh
+lftp  -c "open [GEO_server_address/password]; cd [upload_dir]; mirror -R [dir_to_upload]"
+```
