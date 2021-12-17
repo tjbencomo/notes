@@ -17,5 +17,10 @@ for several kits (including Agilent).
 This script uploads data to GEO and can be run non-interactively on a cluster
 ```
 # File: upload.sh
+#
+# GEO_server_address/password - ftp login info provided by GEO
+# upload_dir - location where they want you to upload the data; usually [username]/uploads
+# dir_to_upload - directory that you want to upload (-R includes sub-directories]
+# swap mirror for put command for a single file
 lftp  -c "open [GEO_server_address/password]; cd [upload_dir]; mirror -R [dir_to_upload]"
 ```
