@@ -8,3 +8,4 @@ Description of how to handle multiple probes per gene:
 What the `at`, `s_at`, and `x_at` mean at the end of probe set IDs:
 
 * [https://www.biostars.org/p/16093/](https://www.biostars.org/p/16093/)
+* [https://dintor.eurac.edu/doc/doc/HSGeneAtlas.html](https://dintor.eurac.edu/doc/doc/HSGeneAtlas.html)
