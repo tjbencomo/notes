@@ -50,6 +50,7 @@ machine learning.
 | [Correct Confidence Intervals For GLMs](https://fromthebottomoftheheap.net/2018/12/10/confidence-intervals-for-glms/) | Gavin Simpson's blog shows to how compute confidence intervals for GLM models that obey the constraints of the response variable |
 | [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/) | Statistics textbook explaining GLMs and multi-level models |
 | [Mixed Models with R](https://m-clark.github.io/mixed-models-with-R/introduction.html) | Explanation of mixed effects models with R code |
+| [Using Mixture Models for Clustering](https://tinyheero.github.io/2015/10/13/mixture-model.html) | Tutorial using `mixtools` R package |
 
 
 
