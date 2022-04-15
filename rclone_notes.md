@@ -17,3 +17,5 @@ will try to open a browser link that will lead you to authorize `rclone` access.
 doesn't have a monitor/GUI output (ie Sherlock or other SSH scenarios). In this case don't use the default config.
 Instead, download `rclone` onto a compute with GUI output (like your laptop) and then follow the instructions to
 authorize from the local computer and then paste the key into the remote computer.
+
+See [Remote Setup](https://rclone.org/remote_setup/)
