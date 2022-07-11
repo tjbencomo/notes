@@ -1,6 +1,6 @@
 # Sequencing
 
-# Exome Target Regions
+## Exome Target Regions
 When analyzing exome data, most programs require a BED file with the capture regions. 
 GATK uses this to only call mutations within these regions. CNVKit uses these regions determine off-target
 bins to estimate copy number. The target region depends on sequencing company that designed the probes.
@@ -13,7 +13,7 @@ Agilent catalog. This will display all the different kits and allow you to downl
 AstraZeneca has a great [repository](https://github.com/AstraZeneca-NGS/reference_data) with capture region BED files
 for several kits (including Agilent).
 
-# GEO Submission
+## GEO Submission
 This script uploads data to GEO and can be run non-interactively on a cluster
 ```
 # File: upload.sh
@@ -24,3 +24,9 @@ This script uploads data to GEO and can be run non-interactively on a cluster
 # swap mirror for put command for a single file
 lftp  -c "open [GEO_server_address/password]; cd [upload_dir]; mirror -R [dir_to_upload]"
 ```
+
+## EGA Downloads
+EGA data can be access-controlled, requiring outreach to the relevant data access committee (DAC) who will
+then tell EGA to help you create an account (or provide access to your existing account). From there you
+can use EGA's special downloader tool [`pyega3`](https://github.com/EGA-archive/ega-download-client)
+to find and download the dataset of interest. The Github has all the relevant info for install/credentialing/commands
