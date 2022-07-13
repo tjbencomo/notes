@@ -51,7 +51,7 @@ machine learning.
 | [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/) | Statistics textbook explaining GLMs and multi-level models |
 | [Mixed Models with R](https://m-clark.github.io/mixed-models-with-R/introduction.html) | Explanation of mixed effects models with R code |
 | [Using Mixture Models for Clustering](https://tinyheero.github.io/2015/10/13/mixture-model.html) | Tutorial using `mixtools` R package |
-
+| [Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/) | Textbook with an in depth look at linear modeling for biological data |
 
 
 ## Machine Learning
