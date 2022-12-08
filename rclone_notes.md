@@ -19,3 +19,9 @@ Instead, download `rclone` onto a compute with GUI output (like your laptop) and
 authorize from the local computer and then paste the key into the remote computer.
 
 See [Remote Setup](https://rclone.org/remote_setup/)
+
+
+## Copy including Root Directory Structure
+If you want to copy a directory `test` with several files into a new location `dest` and keep `test` as the root instead of
+copying just the contents to `dest`, you need to format the output path as `dest/test`. See [this](https://github.com/rclone/rclone/issues/1228)
+for more info
