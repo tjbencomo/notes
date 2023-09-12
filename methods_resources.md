@@ -15,7 +15,7 @@ machine learning.
 | [Microarray Data Analysis](http://bioinformatics-core-shared-training.github.io/microarray-analysis/) | Workshop covering microarray DE analysis for GEO data using `limma`. |
 | [FastQC Plots: Good vs Bad Plots](https://rtsf.natsci.msu.edu/genomics/tech-notes/fastqc-tutorial-and-faq/) | Tutorial describing how to interpret `FastQC` plots with examples of good and bad data |
 | [CoMutPlotter: Visualize Mutation Data](http://tardis.cgu.edu.tw/comutplotter/) | Online tool to visualize mutation heatmaps and include clinical characteristics for a sequencing cohort |
-| [Check RNASeq Strandedness](https://fishycat.netlify.com/en/2017/08/strandness_in_rnaseq/) | Use different RNASeq alignment programs to check if RNASeq data is stranded or unstranded |
+| [RNA Aligners Strandedness Settings](https://littlebitofdata.com/en/2017/08/strandness_in_rnaseq/) | Details different settings for strandedness in RSEM, Salmon, Kallisto, HTSeq-Counts and others |
 | [RNASeq Strandedness Explanation](https://chipster.csc.fi/manual/library-type-summary.html) | Explains unstranded vs stranded vs reverse stranded and how to use RSeQC to check the strandedness of FASTQ data |
 | [Common Clustering Mistakes](https://stke-sciencemag-org.stanford.idm.oclc.org/content/9/432/re6) | Discusses issues with clustering biological data |
 | [Should I remove PCR duplicates from RNA-Seq](https://dnatech.genomecenter.ucdavis.edu/faqs/should-i-remove-pcr-duplicates-from-my-rna-seq-data/) | Why we DO NOT remove PCR duplicates from RNA-Seq |
